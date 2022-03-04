@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ZadanieJava2 {
+public class ArrayCreator {
 
 //Arrays creator
 
