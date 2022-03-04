@@ -1,2 +1,2 @@
-# L1Z2
-Solutions for coding tasks 1 and 2. Lesson 1.
+# L1
+Solutions for coding tasks 1 (Guess number game) and 2 (ArraysCreator). Lesson 1.
